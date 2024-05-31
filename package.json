@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alvaromartmart/pr-coverage-tracker.git"
+    "url": "git+https://github.com/poloHex/line-coverage-compare.git"
   },
   "keywords": [
     "actions",

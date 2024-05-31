@@ -92,7 +92,7 @@ export function getCoverageComment({
     `### Coverage trend:`,
     `_Commit ${commitId}${
       previousCommitId
-        ? `( [compared](https://github.com/alvaromartmart/code-coverage-tracker/compare/${previousCommitId}..${commitId}) to ${previousCommitId} )`
+        ? `( [compared](https://github.com/poloHex/line-coverage-compare/compare/${previousCommitId}..${commitId}) to ${previousCommitId} )`
         : ''
     }_`,
     ...(trends
